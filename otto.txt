@@ -1,2 +1,3 @@
 Otto ist doof. Das ist schon mal klar.
 Der zweite Kommentar.
+Der dritte Kommentar.
